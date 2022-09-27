@@ -17,7 +17,7 @@
 This is a single-page text editor that runs in a browser and meets the PWA criteria. It features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application is deployed on Heroku and also functions offline. 
 
 ## Application Live URL
-The TechBlog live URL:
+The JATE live URL:
 
 [The JATE application Live URL here](https://secret-reaches-53787.herokuapp.com/)
 
@@ -38,24 +38,34 @@ View the deployed application where you will be presented with a code/text edito
  Mahalakshmi Rajendran
 
 ## Test Instructions
-- Run npm run start from the root directory
+- Run 'npm run start' from the root directory
 
-- The user opens the text editor, the user will find the IndexedDB has immediately created a database storage.
+- When the user opens the text editor, the user will find the IndexedDB has immediately created a database storage.
 
 - When the user enters content and subsequently clicks off of the DOM window, the content in the text editor is saved with IndexedDB.
 
 - When the user reopens the text editor after closing it, the content in the text editor has been retrieved from the IndexedDB.
 
 ## Screenshots
-Browser Version:
+
+* Browser Version:
+
 ![JATE Application Screen](images/jate-1.PNG)
-Service Broker:
+
+* Service Broker:
+
 ![JATE Application Service Broker](images/jate-2.PNG)
-Manifest:
+
+* Manifest:
+
 ![JATE Application Manifest](images/jate-3.PNG)
-IndexedDB:
+
+* IndexedDB:
+
 ![JATE Application IndexedDB](images/jate-4.PNG)
-Local Version:(Downloaded Version)
+
+* Local Version:(Downloaded Version)
+
 ![JATE Application downloaded locally](images/jate-5.PNG)
 
 ## Github
