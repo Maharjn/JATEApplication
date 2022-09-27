@@ -9,6 +9,7 @@
 * [License](#license)
 * [Contributing](#contributing)
 * [Test Instruction](#tests)
+* [Screenshots](#screenshots)
 * [Github Link](#github)
 * [Reach me for any additional queries](#email)
 
@@ -45,6 +46,12 @@ View the deployed application where you will be presented with a code/text edito
 
 - When the user reopens the text editor after closing it, the content in the text editor has been retrieved from the IndexedDB.
 
+## Screenshots
+![JATE Application Screen](images/jate-1.PNG)
+![JATE Application Service Broker](images/jate-2.PNG)
+![JATE Application Manifest](images/jate-3.PNG)
+![JATE Application IndexedDB](images/jate-4.PNG)
+![JATE Application downloaded locally](images/jate-5.PNG)
 
 ## Github
 Visit my github profile here: [Maharjn](https://github.com/Maharjn)
