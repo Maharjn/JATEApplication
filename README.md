@@ -47,10 +47,15 @@ View the deployed application where you will be presented with a code/text edito
 - When the user reopens the text editor after closing it, the content in the text editor has been retrieved from the IndexedDB.
 
 ## Screenshots
+Browser Version:
 ![JATE Application Screen](images/jate-1.PNG)
+Service Broker:
 ![JATE Application Service Broker](images/jate-2.PNG)
+Manifest:
 ![JATE Application Manifest](images/jate-3.PNG)
+IndexedDB:
 ![JATE Application IndexedDB](images/jate-4.PNG)
+Local Version:(Downloaded Version)
 ![JATE Application downloaded locally](images/jate-5.PNG)
 
 ## Github
