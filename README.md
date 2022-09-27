@@ -52,7 +52,7 @@ View the deployed application where you will be presented with a code/text edito
 
 ![JATE Application Screen](images/jate-1.PNG)
 
-* Service Broker:
+* Service Workers:
 
 ![JATE Application Service Broker](images/jate-2.PNG)
 
